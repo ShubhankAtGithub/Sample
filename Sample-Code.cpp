@@ -1,9 +1,15 @@
 #inlcude <iostream>
 
+void PrintHello();
+
 int main()
 {
-  std::cout<<"This is a sample statement";
   return 0;
 
 }
 //ISKO COMMENT BOLTE H
+
+void PrintHello()
+{
+	std::cout << "Hello, World!";
+}
