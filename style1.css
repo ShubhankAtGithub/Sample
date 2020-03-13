@@ -1,0 +1,28 @@
+* {
+	font-family: 'Montserrat';
+}
+
+body {
+	margin: 0px;
+}
+
+#header {
+	padding: 20px;
+	text-align: center;
+	background-color: cadetblue;
+}
+
+#content {
+	position: relative;
+	width: 100%;
+	text-align: justify;
+	color: #444444;
+}
+
+#footer {
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	text-align: center;
+	background-color: #007777;
+}
